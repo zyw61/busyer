@@ -1,0 +1,8 @@
+网站名
+元素网络
+源码
+抓包
+验证码可能可以不填
+XSS
+宽字节注入%df,与后面的\配对，释放'			
+例题：http://hackinglab.cn/ShowQues.php?type=sqlinject
